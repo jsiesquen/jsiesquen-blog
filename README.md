@@ -32,7 +32,7 @@ If you're doing it locally, start with clicking the [use this template](https://
 From there, you can install the project's dependencies by running:
 
 ```shell
-yarn install
+yarn install --network-timeout 1000000 --ignore-engines
 ```
 
 Finally, you can run your project locally with:

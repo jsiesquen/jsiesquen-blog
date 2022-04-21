@@ -8,6 +8,8 @@
     "Tara Manicsic",
     "Thom Krupa"
   ],
+  "license": "UNLICENSED",
+  "private": true,
   "homepage": "https://github.com/netlify-templates/nextjs-blog-theme",
   "bugs": {
     "url": "https://github.com/netlify-templates/nextjs-blog-theme/issues"
